@@ -1,0 +1,28 @@
+name: IconSalonSystems
+favicon: null
+layout_spectrum: 0.6146652903407812
+typography_spectrum: 0.4106416751164943
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8148888554424047
+  lightness: 0.40605684951879084
+  saturation: 0.33517843042500317
+  rhythmicContrast: 0.3090383142698556
+purpose: []
